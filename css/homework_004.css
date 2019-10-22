@@ -1,0 +1,61 @@
+table, th, td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    width: 130px;
+    height: 80px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.red {
+    color: red;
+    background-color: lightcoral;
+    border: 1px solid red;
+}
+.black {
+    color: black;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.redtext {
+    color: red;
+}
+
+.KNY2018 {
+    background-image: url(../image/KhmerNY.jpg);
+    background-repeat: no-repeat;
+    background-size: 135px auto;
+    margin: auto;
+}
+
+.Fourteen {
+    background-image: url(../image/KNW14.jpg);
+    background-repeat: no-repeat;
+    background-size: 135px auto;
+    margin: auto;
+}
+
+.Fifteen {
+    background-image: url(../image/KNY.jpg);
+    background-repeat: no-repeat;
+    background-size: 140px auto;
+    margin: auto;
+}
